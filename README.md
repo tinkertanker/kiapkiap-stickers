@@ -1,0 +1,29 @@
+# Kiap Kiap Stickers
+
+Transparent PNG sticker assets for Kiap Kiap, the Claw Camp lobster mascot.
+
+## Files
+
+All stickers are in `stickers/` as 1254 x 1254 transparent PNGs.
+
+- `kiap-kiap-ai-foundations-brain-chip.png`
+- `kiap-kiap-build-your-own-claw.png`
+- `kiap-kiap-claws-up-smartwatch-lanyard.png`
+- `kiap-kiap-codex-helper-checklist.png`
+- `kiap-kiap-coding-laptop.png`
+- `kiap-kiap-drone-controller.png`
+- `kiap-kiap-icebreaker-nametags.png`
+- `kiap-kiap-openclaw-agent-tools.png`
+- `kiap-kiap-quiz-trophy-buzzer.png`
+- `kiap-kiap-share-game-phone.png`
+- `kiap-kiap-sleepy-tech-cooldown.png`
+- `kiap-kiap-tablet-tap.png`
+- `kiap-kiap-terminal-setup.png`
+- `kiap-kiap-vibe-coding-game-build.png`
+- `kiap-kiap-vr-headset.png`
+- `kiap-kiap-vscode-setup-laptop.png`
+
+## Notes
+
+- The working set intentionally excludes flattened/non-transparent PNGs and checkerboard preview files.
+- No licence is granted by default; treat these as Tinkertanker camp assets unless separately approved.
