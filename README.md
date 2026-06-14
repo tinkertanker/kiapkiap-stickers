@@ -22,6 +22,7 @@ All stickers are in `stickers/` as 1254 x 1254 transparent PNGs.
 - `kiap-kiap-laptop-perspective.png`
 - `kiap-kiap-openclaw-agent-tools.png`
 - `kiap-kiap-peeking-claw-top.png`
+- `kiap-kiap-peeking-raised-claw.png`
 - `kiap-kiap-quiz-trophy-buzzer.png`
 - `kiap-kiap-share-game-phone.png`
 - `kiap-kiap-sleepy-tech-cooldown.png`
