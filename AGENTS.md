@@ -10,10 +10,20 @@ This repository stores Kiap Kiap sticker assets for Claw Camp. Work here is limi
 - Use bright coral red for the lobster body, bold clean sticker outlines, and small turquoise/yellow tech accents.
 - Full-body Kiap Kiap usually has a tiny smartwatch and a small mobile phone on a lanyard.
 - Keep gadgets simple and readable at small sticker size. Prefer one clear prop or action per sticker.
+- Keep Kiap Kiap as the main silhouette. Props should be secondary and smaller than the mascot unless the concept is explicitly a claw-only or face-only crop.
+- Preserve the approved proportions: large smooth rounded head, tiny compact body, tiny feet, short rounded claws, and exactly two simple curved antennae. Avoid spiky head shapes, hair-like tufts, long segmented bodies, realistic lobster anatomy, human-like legs, or action poses that stretch Kiap into a tall character.
 - When Kiap Kiap is using a screen, angle the device toward Kiap Kiap unless the sticker concept specifically needs the viewer to inspect the screen. Prefer side, three-quarter, or back-facing poses over flat front-facing screens.
 - VS Code stickers should read as a VS Code-like editor through dark panels, a blue sidebar, and abstract coloured code lines, but must not use the official VS Code logo or readable code text.
 - Do not use existing logo marks, app logos, readable brand marks, letters, or text inside generated stickers.
 - Face-only stickers should keep the oversized head, sunglasses, antennae, and friendly expression, with no body unless explicitly requested.
+
+## Prompt Style Lock
+
+When generating new full-body stickers, start from this style lock and then append the specific variant:
+
+> Kiap Kiap is a cute chibi lobster, not a realistic lobster and not an insect. Large smooth rounded coral-red head taking most visual weight, tiny compact body, tiny visible feet, short rounded claws, exactly two simple curved antennae, black sunglasses, friendly smile, bold clean black outline, white sticker border, turquoise smartwatch, small phone lanyard. Avoid spiky hair, long body, human-like legs, realistic anatomy, oversized props, clutter, text, letters, logos, and brand marks.
+
+For concept props, add: `The prop is secondary and smaller than Kiap Kiap; Kiap's round head and sunglasses dominate the silhouette.`
 
 ## File Rules
 
